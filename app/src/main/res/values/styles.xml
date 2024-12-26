@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="style_textView">
+        <item name="android:layout_marginTop">@dimen/layout_margin</item>
+        <item name="android:fontFamily">@font/nunito_sans_medium</item>
+        <item name="android:padding">@dimen/small_padding</item>
+        <item name="android:textColor">@color/design_default_color_primary_dark</item>
+        <item name="android:textSize">@dimen/text_size</item>
+    </style>
+
+    <style name="nameStyle">
+        <item name="android:layout_marginTop">@dimen/layout_margin</item>
+        <item name="android:fontFamily">@font/nunito_sans_medium</item>
+        <item name="android:padding">@dimen/small_padding</item>
+        <item name="android:textColor">@color/design_default_color_primary_dark</item>
+        <item name="android:textSize">@dimen/text_size</item>
+    </style>
+</resources>
